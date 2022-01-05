@@ -9,7 +9,7 @@ void main() {
   final valorA1 = valorB;
   final valorB1 = valorA;
 
-  print('Valores ivertidos:');
+  print('Valores invertidos:');
   print("Valor A: $valorA1");
   print("Valor B: $valorB1");
 
